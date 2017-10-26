@@ -1,0 +1,1840 @@
+fileFormatVersion: 2
+guid: 7ccfc0339fff9794b86e3b4f8fc89ae5
+timeCreated: 1509017916
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vegetasprite_0
+    21300002: vegetasprite_1
+    21300004: vegetasprite_2
+    21300006: vegetasprite_3
+    21300008: vegetasprite_4
+    21300010: vegetasprite_5
+    21300012: vegetasprite_6
+    21300014: vegetasprite_7
+    21300016: vegetasprite_8
+    21300018: vegetasprite_9
+    21300020: vegetasprite_10
+    21300022: vegetasprite_11
+    21300024: vegetasprite_12
+    21300026: vegetasprite_13
+    21300028: vegetasprite_14
+    21300030: vegetasprite_15
+    21300032: vegetasprite_16
+    21300034: vegetasprite_17
+    21300036: vegetasprite_18
+    21300038: vegetasprite_19
+    21300040: vegetasprite_20
+    21300042: vegetasprite_21
+    21300044: vegetasprite_22
+    21300046: vegetasprite_23
+    21300048: vegetasprite_24
+    21300050: vegetasprite_25
+    21300052: vegetasprite_26
+    21300054: vegetasprite_27
+    21300056: vegetasprite_28
+    21300058: vegetasprite_29
+    21300060: vegetasprite_30
+    21300062: vegetasprite_31
+    21300064: vegetasprite_32
+    21300066: vegetasprite_33
+    21300068: vegetasprite_34
+    21300070: vegetasprite_35
+    21300072: vegetasprite_36
+    21300074: vegetasprite_37
+    21300076: vegetasprite_38
+    21300078: vegetasprite_39
+    21300080: vegetasprite_40
+    21300082: vegetasprite_41
+    21300084: vegetasprite_42
+    21300086: vegetasprite_43
+    21300088: vegetasprite_44
+    21300090: vegetasprite_45
+    21300092: vegetasprite_46
+    21300094: vegetasprite_47
+    21300096: vegetasprite_48
+    21300098: vegetasprite_49
+    21300100: vegetasprite_50
+    21300102: vegetasprite_51
+    21300104: vegetasprite_52
+    21300106: vegetasprite_53
+    21300108: vegetasprite_54
+    21300110: vegetasprite_55
+    21300112: vegetasprite_56
+    21300114: vegetasprite_57
+    21300116: vegetasprite_58
+    21300118: vegetasprite_59
+    21300120: vegetasprite_60
+    21300122: vegetasprite_61
+    21300124: vegetasprite_62
+    21300126: vegetasprite_63
+    21300128: vegetasprite_64
+    21300130: vegetasprite_65
+    21300132: vegetasprite_66
+    21300134: vegetasprite_67
+    21300136: vegetasprite_68
+    21300138: vegetasprite_69
+    21300140: vegetasprite_70
+    21300142: vegetasprite_71
+    21300144: vegetasprite_72
+    21300146: vegetasprite_73
+    21300148: vegetasprite_74
+    21300150: vegetasprite_75
+    21300152: vegetasprite_76
+    21300154: vegetasprite_77
+    21300156: vegetasprite_78
+    21300158: vegetasprite_79
+    21300160: vegetasprite_80
+    21300162: vegetasprite_81
+    21300164: vegetasprite_82
+    21300166: vegetasprite_83
+    21300168: vegetasprite_84
+    21300170: vegetasprite_85
+    21300172: vegetasprite_86
+    21300174: vegetasprite_87
+    21300176: vegetasprite_88
+    21300178: vegetasprite_89
+    21300180: vegetasprite_90
+    21300182: vegetasprite_91
+    21300184: vegetasprite_92
+    21300186: vegetasprite_93
+    21300188: vegetasprite_94
+    21300190: vegetasprite_95
+    21300192: vegetasprite_96
+    21300194: vegetasprite_97
+    21300196: vegetasprite_98
+    21300198: vegetasprite_99
+    21300200: vegetasprite_100
+    21300202: vegetasprite_101
+    21300204: vegetasprite_102
+    21300206: vegetasprite_103
+    21300208: vegetasprite_104
+    21300210: vegetasprite_105
+    21300212: vegetasprite_106
+    21300214: vegetasprite_107
+    21300216: vegetasprite_108
+    21300218: vegetasprite_109
+    21300220: vegetasprite_110
+    21300222: vegetasprite_111
+    21300224: vegetasprite_112
+    21300226: vegetasprite_113
+    21300228: vegetasprite_114
+    21300230: vegetasprite_115
+    21300232: vegetasprite_116
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegetasprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1154
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1155
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1156
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1156
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1157
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1156
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1156
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1156
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1158
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1158
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1159
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1160
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1160
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1076
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1077
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1078
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1078
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1079
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1079
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1078
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1078
+        width: 40
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1075
+        width: 50
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1080
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1082
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_24
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1080
+        width: 37
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 979
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 979
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 981
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 981
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 983
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 986
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 985
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 991
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 990
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_34
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 990
+        width: 62
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 907
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 888
+        width: 43
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 899
+        width: 44
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 887
+        width: 43
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 46
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 919
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 907
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 919
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 916
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 892
+        width: 43
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 815
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 817
+        width: 46
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 818
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 815
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 815
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 816
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 814
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 817
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_53
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 813
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 739
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 741
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 741
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_58
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 742
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 744
+        width: 57
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 745
+        width: 67
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_61
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 744
+        width: 59
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 748
+        width: 65
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 660
+        width: 65
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 662
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 664
+        width: 62
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 660
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_68
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 651
+        width: 49
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_69
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 656
+        width: 34
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 650
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 573
+        width: 49
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 576
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 574
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 577
+        width: 28
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_75
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 588
+        width: 68
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_76
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 576
+        width: 35
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_77
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 574
+        width: 39
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 574
+        width: 35
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_79
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 564
+        width: 33
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_80
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 562
+        width: 40
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 471
+        width: 53
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 472
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 474
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_84
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 484
+        width: 39
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_85
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 478
+        width: 31
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_86
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 481
+        width: 54
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 479
+        width: 54
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_88
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 477
+        width: 50
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 478
+        width: 36
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 377
+        width: 49
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 382
+        width: 36
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 379
+        width: 40
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_93
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 377
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_94
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 376
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 387
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_96
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 386
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_97
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 382
+        width: 41
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_98
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 381
+        width: 59
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 291
+        width: 41
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290
+        width: 58
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_101
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 286
+        width: 33
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_102
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 283
+        width: 48
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 195
+        width: 31
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 195
+        width: 33
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 197
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_107
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 198
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_108
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 198
+        width: 29
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 200
+        width: 29
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_110
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 201
+        width: 50
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_112
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 208
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_113
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 206
+        width: 37
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_115
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 89
+        width: 169
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetasprite_116
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

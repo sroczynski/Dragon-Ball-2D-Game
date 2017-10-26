@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : Assets.Scripts.ClientSocket
+public class Player2Controller : Assets.Scripts.ClientSocket
 {
     public float walkSpeed = 1; // player left right walk speed
     private bool _isGrounded = true; // is player on the ground?
@@ -22,7 +22,7 @@ public class PlayerController : Assets.Scripts.ClientSocket
     const int STATE_DEFEND = 3;
     const int STATE_JUMP = 4;
 
-    string _currentDirection = "right";
+    string _currentDirection = "left";
     int _currentAnimationState = STATE_IDLE;
 
     // Use this for initialization
@@ -83,7 +83,7 @@ public class PlayerController : Assets.Scripts.ClientSocket
 
         //check if hadooken animation is playing
         _isPlaying_punch = animator.GetCurrentAnimatorStateInfo(0).IsName("punch");
-        
+
         //check if strafe animation is playing
         _isPlaying_fly = animator.GetCurrentAnimatorStateInfo(0).IsName("fly");
     }
